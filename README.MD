@@ -10,4 +10,4 @@
 
 Hasil tampilan
 
-![./img/land.png](../gambar/Biodata.jpg)
+![](gambar/Biodata.jpg)
